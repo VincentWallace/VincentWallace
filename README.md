@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🌱 I’m currently learning about advanced machine learning techniques and cloud infrastructure.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about software development, cloud computing, and AI.
-- 📫 How to reach me: vincent.wallace@example.com
+- 📫 How to reach me: ny.wanglt@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
